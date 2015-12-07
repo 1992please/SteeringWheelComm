@@ -1,0 +1,5 @@
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\obj\Debug\ClientSide.pdb

@@ -1,0 +1,4 @@
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheelDirectx\bin\Debug\SteeringWheelDirectx.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheelDirectx\bin\Debug\SteeringWheelDirectx.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheelDirectx\obj\Debug\SteeringWheelDirectx.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheelDirectx\obj\Debug\SteeringWheelDirectx.pdb

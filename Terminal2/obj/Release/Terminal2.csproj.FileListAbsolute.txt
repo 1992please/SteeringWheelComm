@@ -1,0 +1,11 @@
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\bin\Release\Terminal2.exe.config
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\bin\Release\Terminal2.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\bin\Release\Terminal2.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\obj\Release\Terminal2.csprojResolveAssemblyReference.cache
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\obj\Release\Terminal2.Form1.resources
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\obj\Release\Terminal2.Properties.Resources.resources
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\obj\Release\Terminal2.csproj.GenerateResource.Cache
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\obj\Release\Terminal2.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\obj\Release\Terminal2.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\bin\Release\SteeringWheelDirectx.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\Terminal2\bin\Release\SteeringWheelDirectx.pdb

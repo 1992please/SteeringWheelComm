@@ -1,0 +1,11 @@
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\SteeringWheel.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\SlimDX.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\SteeringWheel.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\SlimDX.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\bin\Release\SlimDX.xml
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

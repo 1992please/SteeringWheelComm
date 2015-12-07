@@ -1,0 +1,8 @@
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\bin\Release\SteeringWheel.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\bin\Release\SteeringWheel.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\obj\Release\SteeringWheel.csprojResolveAssemblyReference.cache
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\obj\Release\SteeringWheel.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\obj\Release\SteeringWheel.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\bin\Release\SlimDX.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\bin\Release\SlimDX.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\SteeringWheel\bin\Release\SlimDX.xml

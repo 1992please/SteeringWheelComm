@@ -1,0 +1,6 @@
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\bin\Release\ClientSide.exe.config
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\bin\Release\ClientSide.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\bin\Release\ClientSide.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\obj\Release\ClientSide.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\obj\Release\ClientSide.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ClientSide\obj\Release\ClientSide.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\ServerSide.exe.config
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\ServerSide.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\ServerSide.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\obj\Release\ServerSide.exe
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\obj\Release\ServerSide.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\obj\Release\ServerSide.csprojResolveAssemblyReference.cache
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\SteeringWheel.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\SlimDX.dll
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\SteeringWheel.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\SlimDX.pdb
+C:\Users\nader\documents\visual studio 2013\Projects\SteeringWheel\ServerSide\bin\Release\SlimDX.xml
